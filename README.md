@@ -12,7 +12,6 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
   <header class="site-header">
     <div class="header-inner">
       <a class="logo" href="#">AJ</a>
@@ -48,7 +47,6 @@
         </div>
       </div>
     </section>
-
     <section id="about" class="section section-alt" aria-labelledby="about-heading">
       <div class="wrap">
         <header class="section-head">
@@ -76,7 +74,6 @@
         </div>
       </div>
     </section>
-
     <section id="customer-success" class="section" aria-labelledby="cs-heading">
       <div class="wrap">
         <header class="section-head">
@@ -105,7 +102,6 @@
         </div>
       </div>
     </section>
-
     <section id="strengths" class="section" aria-labelledby="strengths-heading">
       <div class="wrap">
         <header class="section-head">
@@ -126,7 +122,6 @@
         </ul>
       </div>
     </section>
-
     <section id="experience" class="section section-alt" aria-labelledby="experience-heading">
       <div class="wrap">
         <header class="section-head">
@@ -197,7 +192,6 @@
         </ol>
       </div>
     </section>
-
     <section id="projects" class="section" aria-labelledby="projects-heading">
       <div class="wrap">
         <header class="section-head">
@@ -229,7 +223,6 @@
         </ul>
       </div>
     </section>
-
     <section id="contact" class="section section-contact" aria-labelledby="contact-heading">
       <div class="wrap">
         <header class="section-head section-head-center">
@@ -269,10 +262,3 @@
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <p>© <span id="year"></span> Aoi Jibratul Muflihun. All rights reserved.</p>
-      <p class="footer-meta">Static site: open <code>index.html</code> locally or deploy to any static host.</p>
-    </div>
-  </footer>
-
-  <script src="script.js"></script>
-</body>
-</html>
