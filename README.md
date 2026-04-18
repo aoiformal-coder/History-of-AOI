@@ -1,2 +1,3 @@
 # History-of-AOI
 This a story of an ambitious boy who is on his way to improve his skills and career while still maintaining work-live balance with his family. He would like to jump to the ever evolving world of tech industry and make a change there. 
+After reading the email, I donwloaded Cursor using the link and made a Github account. I haven't add the cloude code add-on at this point because I was studying both of these website and app. It excited me a lot that I can code instantly without prior knowledge of coding. I was testing the cursor to make me a website that I can use to promote myself to employers. 
